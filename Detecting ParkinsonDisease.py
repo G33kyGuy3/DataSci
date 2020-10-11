@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 19 16:42:12 2020
 
-@author: Hi
+@author: Duncan Thompson
 """
 
 #Detecting Parkinson’s Disease – Python Machine Learning Project
